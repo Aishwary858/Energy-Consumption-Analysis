@@ -4,6 +4,8 @@ A comprehensive data analysis project that extracts and analyzes electricity con
 
 📋 Project Overview
 This project implements an end-to-end data pipeline to analyze electricity consumption patterns across different regions of India. By leveraging data engineering and analytical tools, we provide actionable insights into regional energy usage, seasonal variations, and optimization opportunities.
+![image alt](https://github.com/Aishwary858/Energy-Consumption-Analysis/blob/main/Screenshot%202025-02-15%20212643.png?raw=true)
+
 🛠️ Technical Implementation
 Data Pipeline
 
