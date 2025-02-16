@@ -1,6 +1,7 @@
 # Energy-Consumption-Analysis
 Indian Energy Consumption Analysis
 A comprehensive data analysis project that extracts and analyzes electricity consumption patterns across India using data from the Central Electricity Authority.
+
 📋 Project Overview
 This project implements an end-to-end data pipeline to analyze electricity consumption patterns across different regions of India. By leveraging data engineering and analytical tools, we provide actionable insights into regional energy usage, seasonal variations, and optimization opportunities.
 🛠️ Technical Implementation
